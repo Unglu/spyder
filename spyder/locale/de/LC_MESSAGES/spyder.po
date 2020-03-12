@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-03-11 08:58-0500\n"
-"PO-Revision-Date: 2020-03-11 15:59\n"
+"PO-Revision-Date: 2020-03-12 15:57\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -1702,7 +1702,7 @@ msgstr "Einrückungslinien anzeigen"
 
 #: spyder/plugins/editor/confpage.py:41 spyder/plugins/editor/plugin.py:806
 msgid "Show code folding"
-msgstr ""
+msgstr "Code-Faltung anzeigen"
 
 #: spyder/plugins/editor/confpage.py:42 spyder/plugins/history/confpage.py:35 spyder/plugins/history/plugin.py:116
 msgid "Show line numbers"
@@ -2479,11 +2479,11 @@ msgstr "Klick zum Öffnen"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:1392
 msgid "This file contains more than 2000 lines!  Code folding and indent guidelines will be  disabled in order to prevent performance degradation."
-msgstr ""
+msgstr "Diese Datei enthält mehr als 2000 Zeilen! Code-Faltung und Einrückungsrichtlinien werden deaktiviert, um Leistungseinbußen zu vermeiden."
 
 #: spyder/plugins/editor/widgets/codeeditor.py:1397
 msgid "File too long"
-msgstr ""
+msgstr "Datei zu lang"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:2458
 msgid "Code analysis"
